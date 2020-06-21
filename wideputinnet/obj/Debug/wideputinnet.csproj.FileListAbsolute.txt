@@ -1,0 +1,17 @@
+C:\Users\elija\source\repos\wideputinnet\wideputinnet\bin\Debug\wideputinnet.exe.config
+C:\Users\elija\source\repos\wideputinnet\wideputinnet\bin\Debug\wideputinnet.exe
+C:\Users\elija\source\repos\wideputinnet\wideputinnet\bin\Debug\wideputinnet.pdb
+C:\Users\elija\source\repos\wideputinnet\wideputinnet\obj\Debug\wideputinnet.csprojAssemblyReference.cache
+C:\Users\elija\source\repos\wideputinnet\wideputinnet\obj\Debug\MainWindow.g.cs
+C:\Users\elija\source\repos\wideputinnet\wideputinnet\obj\Debug\App.g.cs
+C:\Users\elija\source\repos\wideputinnet\wideputinnet\obj\Debug\wideputinnet_MarkupCompile.cache
+C:\Users\elija\source\repos\wideputinnet\wideputinnet\obj\Debug\wideputinnet_MarkupCompile.lref
+C:\Users\elija\source\repos\wideputinnet\wideputinnet\obj\Debug\MainWindow.baml
+C:\Users\elija\source\repos\wideputinnet\wideputinnet\obj\Debug\wideputinnet.g.resources
+C:\Users\elija\source\repos\wideputinnet\wideputinnet\obj\Debug\wideputinnet.Properties.Resources.resources
+C:\Users\elija\source\repos\wideputinnet\wideputinnet\obj\Debug\wideputinnet.csproj.GenerateResource.cache
+C:\Users\elija\source\repos\wideputinnet\wideputinnet\obj\Debug\wideputinnet.csproj.CoreCompileInputs.cache
+C:\Users\elija\source\repos\wideputinnet\wideputinnet\obj\Debug\wideputinnet.exe
+C:\Users\elija\source\repos\wideputinnet\wideputinnet\obj\Debug\wideputinnet.pdb
+C:\Users\elija\source\repos\wideputinnet\wideputinnet\bin\Debug\Resources\wide.mp4
+C:\Users\elija\source\repos\wideputinnet\wideputinnet\obj\Debug\wideputinnet_Content.g.cs
